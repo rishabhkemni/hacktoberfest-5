@@ -26,3 +26,7 @@
 
 
 
+#### Name: [Rishabh Kemni](https://github.com/rishabhkemni)
+- Place: Pune, Maharashtra, India
+- Bio: A enthusiastic developer
+- GitHub:  [Rishabh Kemni](https://github.com/rishabhkemni)
